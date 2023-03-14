@@ -1,0 +1,1 @@
+El link de la extensión que se está utilizando es: https://marketplace.visualstudio.com/items?itemName=Dunn.redis
