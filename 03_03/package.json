@@ -1,0 +1,15 @@
+{
+  "name": "03_03",
+  "version": "1.0.0",
+  "description": "Gestionar el error ECONNREFUSED cuando la conexión de Redis en el local falla con Node.js",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LinkedIn Learning",
+  "license": "ISC",
+  "dependencies": {
+    "redis": "^4.6.4"
+  }
+}
