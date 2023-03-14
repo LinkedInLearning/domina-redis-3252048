@@ -19,10 +19,12 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 ## Instalación
 
 1. Para utilizar estos archivos de ejercicios, debes tener descargado lo siguiente:
-   - [software]
+   - Redis versión 7.0.9
+   - RedisInsight-v2 versión 2.20 (Interfaz Gráfica de Usuario)
+   - Docker versión 4.17
+   - Editor de Código (En este curso se utiliza Visual Studio Code)
 
 2. Clona este repositorio en tu máquina local usando la Terminal (macOS) o CMD (Windows), o una herramienta GUI como SourceTree.
-3. [Instrucciones específicas del curso].
 
 ### Docente
 
