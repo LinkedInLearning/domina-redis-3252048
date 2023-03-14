@@ -1,0 +1,2 @@
+sudo pecl install redis
+php app.php
