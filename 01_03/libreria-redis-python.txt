@@ -1,0 +1,2 @@
+Para instalar la librería de Redis para Python:
+pip install redis
