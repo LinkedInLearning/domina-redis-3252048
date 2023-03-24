@@ -6,7 +6,7 @@ Este es el repositorio del curso de LinkedIn Learning `[Domina Redis]`. El curso
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
-DESCRIPCIÓN DEL CURSO
+Redis es un almacén de estructuras de datos en memoria, utilizado como base de datos distribuida de valores clave en memoria, caché y agente de mensajes, con durabilidad opcional. Durante este contenido se te presentará de forma entretenida, con ejercicios prácticos, todo lo que Redis puede hacer por ti. Profundiza en el conocimiento en Redis aprendiendo a aplicarlo en este curso.
 
 ## Instrucciones
 
