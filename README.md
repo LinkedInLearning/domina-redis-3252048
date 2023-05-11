@@ -1,12 +1,12 @@
 # Domina Redis
 
-Este es el repositorio del curso de LinkedIn Learning `[Domina Redis]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `Domina Redis`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
-![Nombre completo del curso][lil-thumbnail-url][Copy&Past Image from LiL-Buddy] 
+![image](https://github.com/LinkedInLearning/domina-redis-3252048/assets/71371373/e1e8b108-9c79-4405-b200-b71567e97a42)
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
-DESCRIPCIÓN DEL CURSO
+Redis es un almacén de estructuras de datos en memoria, utilizado como base de datos distribuida de valores clave en memoria, caché y agente de mensajes, con durabilidad opcional. Durante este contenido se te presentará de forma entretenida, con ejercicios prácticos, todo lo que Redis puede hacer por ti. Profundiza en el conocimiento en Redis aprendiendo a aplicarlo en este curso.
 
 ## Instrucciones
 
@@ -33,7 +33,7 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/lincy-gonzalez-rojas).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
+[lil-course-url]: https://www.linkedin.com/learning/domina-redis/dominando-las-funcionalidades-de-redis
 [lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
 
 [1]: # (End of ES-Instruction ###############################################################################################)
